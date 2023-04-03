@@ -67,17 +67,7 @@
     min-width: 30%;
     list-style: none;
   }
-  #container{
-    height: 25rem;
-    width: 33rem;
-    background-color:#9c27b073;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    border: 2px  dashed #1a56c2;
-    border-radius: 15px;
-  }
+  
   .todo {
     margin: 0.5rem;
     background: white;
@@ -97,7 +87,7 @@
   
   .trash-btn,
   .complete-btn {
-    background: #FF5722;;
+    background: #760606;
     color: white;
     border: none;
     padding: 1rem;
